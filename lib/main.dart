@@ -26,10 +26,10 @@ class _MyPageState extends State<MyPage> {
             ElevatedButton(
               onPressed: () {
                 setState(() {
-                  message = 'กดปุ่มแล้ว!';
+                  message = 'กดปุ่มแล้วว';
                 });
               },
-              child: const Text('กดฉัน'),
+              child: const Text('คลิกฉันสิ'),
             ),
           ],
         ),
