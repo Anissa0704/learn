@@ -29,7 +29,7 @@ class _MyPageState extends State<MyPage> {
                   message = 'กดปุ่มแล้วว';
                 });
               },
-              child: const Text('คลิกฉันสิ'),
+              child: const Text('hello'),
             ),
           ],
         ),
